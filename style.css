@@ -1,0 +1,58 @@
+body{
+    font-family: sans-serif;
+    background-color: #1b1b1b;
+}
+nav{
+    color: white;
+    background-color: #252525;
+    padding: 1%;
+}
+.up-content{
+    background-color: grey;
+    color: white;
+    padding: 7%;
+}
+.about{
+    color: white;
+    margin-top: 10%;
+}
+.top-content{
+    margin-top: 5%;
+}
+.text-center{
+    color: white;
+    line-height: 400%;
+}
+.name{
+    color: white;
+    font-size: 22px;
+    padding-left: 7%;;
+}
+.name1{
+    color: white;
+    font-size: 13px;
+    padding-left: 7%;
+}
+img{
+    border-radius: 50%;
+}
+.img{
+    border-radius: 0%;
+}
+.identity{
+    color: white;
+    font-size: 13px;
+    line-height: 70%;
+}
+.btn{
+    margin-left: 7%;
+}
+.form{
+    color: white;
+}
+.contact{
+    color:white;
+    margin-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
